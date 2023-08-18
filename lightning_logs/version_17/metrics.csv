@@ -1,0 +1,3 @@
+lr-AdamW,step,val_loss,validation_epoch_average,epoch
+0.001,0,,,
+,8,0.4663105104181855,0.46045991750522963,0
